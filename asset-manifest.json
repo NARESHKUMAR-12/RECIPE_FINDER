@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RECIPE_FINDER/static/css/main.81571eb3.css",
-    "main.js": "/RECIPE_FINDER/static/js/main.6c7cba26.js",
-    "static/media/header_image.jpg": "/RECIPE_FINDER/static/media/header_image.1dc0f346d407fc577d16.jpg",
-    "index.html": "/RECIPE_FINDER/index.html",
-    "static/media/loader.svg": "/RECIPE_FINDER/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
-    "main.81571eb3.css.map": "/RECIPE_FINDER/static/css/main.81571eb3.css.map",
-    "main.6c7cba26.js.map": "/RECIPE_FINDER/static/js/main.6c7cba26.js.map"
+    "main.css": "/recipe_finder/static/css/main.e56a2ef7.css",
+    "main.js": "/recipe_finder/static/js/main.6961551c.js",
+    "static/media/header_image.jpg": "/recipe_finder/static/media/header_image.1dc0f346d407fc577d16.jpg",
+    "index.html": "/recipe_finder/index.html",
+    "static/media/loader.svg": "/recipe_finder/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "main.e56a2ef7.css.map": "/recipe_finder/static/css/main.e56a2ef7.css.map",
+    "main.6961551c.js.map": "/recipe_finder/static/js/main.6961551c.js.map"
   },
   "entrypoints": [
-    "static/css/main.81571eb3.css",
-    "static/js/main.6c7cba26.js"
+    "static/css/main.e56a2ef7.css",
+    "static/js/main.6961551c.js"
   ]
 }
